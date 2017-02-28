@@ -4,17 +4,6 @@ title: Table of content
 permalink: /
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
-
-
 本文档试图从两个方向探讨这一理解:首先,从业务角度理解信息技术主要作用在于增进企业竞争力,由此,如何应用IT问题在企业领导者头脑中就变为如何增强企业竞争力,业务代表企业竞争力,焦点转到业务,这是企业领导者的长项.
 
 另一方面,形成完整的技术文档可以独立构建一套ERP应用,设想一个建立在亚马逊云(AWS)平台上的ERP门店端管理系统[(POS/Point Of Sale)](https://www.odoo.com/zh_CN/page/point-of-sale-shop).减低费用提高可靠度需要简化技术复杂程度,技术路径简化为三段: [AWS(亚马逊云)](https://www.amazonaws.cn/) --> [Docker](https://www.docker.com/) --> App (应用).尽可能采用图形界面与鼠标操作,仍免不了会有少量命令行SSH操作,配合文档辅助,技术难度不大.Docker Container将应用程序集装箱化封装,大大简化云计算的技术难度.以往,部署ERP这个花费难测,时间往往延至数月的任务变为管理员的Web界面设置任务,代价高昂变成普通工作.

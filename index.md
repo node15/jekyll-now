@@ -14,7 +14,7 @@ permalink: /
 
 [0.0.1_概述](/slides/2017-02-27-overview.html)
 
-[0.1.2_阅读笔记_网络中心战_起源与未来](/2017-02-27-review-ncw-origin.html)
+[0.1.2_阅读笔记_网络中心战_起源与未来](/review-ncw-origin)
 
 0.1.3_信息技术对企业作用探讨
 

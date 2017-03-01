@@ -7,15 +7,15 @@
   -webkit-box-shadow: 3px 3px rgba(0,0,0,0.1);
   box-shadow: 3px 3px rgba(0,0,0,0.1);
   margin: 20px 0 20px 0;
-  overflow: scroll;
+  overflow: hidden;
 }
 
 // for word wraping, this one finally works 20150921, though pre-wrap seems an invalid syntax
 // pre {
-	display: block;
+	// display: block;
 	// overflow: auto; // add scrollbars to wide code blocks
 	white-space: pre-wrap;
-	word-wrap: normal;
+	// word-wrap: normal;
 // } 
 
 code {

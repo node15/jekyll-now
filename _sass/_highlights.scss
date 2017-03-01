@@ -12,9 +12,9 @@
 
 // for word wraping, this one finally works 20150921, though pre-wrap seems an invalid syntax
 // pre {
-//	display: block;
+	display: block;
 	// overflow-x: auto; // add scrollbars to wide code blocks
-//	white-space: pre-wrap;
+	white-space: pre-wrap;
 	// word-wrap: normal;
 // } 
 

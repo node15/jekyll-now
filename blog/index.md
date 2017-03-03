@@ -9,7 +9,7 @@ title: Table of Contents
 ### {{ cat }}
 <ul>
 {% for page in site.pages %}
-{% if page.resource == true %}
+{% if page.blog == true %}
 {% for pc in page.categories %}
 {% if pc == cat %}
 <li>
@@ -17,7 +17,7 @@ title: Table of Contents
 </li>
 {% endif %} <!-- cat-match-p -->
 {% endfor %} <!-- page-category -->
-{% endif %} <!-- resource-p -->
+{% endif %} <!-- blog-p -->
 {% endfor %} <!-- page -->
 </ul>
 {% endfor %} <!-- cat --> 

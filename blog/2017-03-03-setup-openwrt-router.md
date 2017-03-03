@@ -4,7 +4,7 @@ title: OpenWrt： 设置一个无线wifi，另加一个客用wifi
 blog: true
 categories: [云计算]
 desc: "OpenWrt basic configuration"
-permalink: /blog/openwrt/
+permalink: /openwrt/
 ---
 
 ## OpenWrt功用

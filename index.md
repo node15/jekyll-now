@@ -12,7 +12,7 @@ permalink: /
 
 ### 1.0 理解云计算
 
-[0.0.1_概述](/slides/2017-02-27-overview.html)
+[0.0.1_概述](/slides/2017-03-04-overview.html)
 
 [0.1.2_阅读笔记_网络中心战_起源与未来](/review-ncw-origin)
 

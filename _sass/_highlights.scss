@@ -10,13 +10,10 @@
   overflow: hidden;
 }
 
-// for word wraping, this one finally works 20150921, though pre-wrap seems an invalid syntax
-// note: upper overflow change from scroll to hidden to avoid scroll bar  
  pre {
-         //display: block;
-	 overflow-x: auto; // add scrollbars to wide code blocks
+         overflow-x: auto; // add scrollbars to wide code blocks
 	white-space: pre-wrap;
-	// word-wrap: normal;
+	
  } 
 
 code {

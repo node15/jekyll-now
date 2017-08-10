@@ -16,6 +16,7 @@ http://www.cic.gc.ca/english/information/applications/visa.asp?countrySelect=CN#
 
 ### Applying for Visitor Visa (Temporary Resident Visa)
 Guide for Appying IMM 5256  (english)
+
 详细申请过程（英文），填申请时参考。
 
 http://www.cic.gc.ca/english/information/applications/guides/5256ETOC.asp

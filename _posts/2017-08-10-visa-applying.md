@@ -81,6 +81,10 @@ Guide for Appying (english)
 
 ### Note:
 
+#### Family members 限定
+
+Your family members include your spouse or common-law partner, your dependent children and any children that are their dependent children.
+
 邀请人需要出具文件上面已列出，不清楚请参照上文指示。
 
 申请人所需文件可在电脑上填写然后打印，用英文或法文，如果用中文，需公证。申请人与加拿大邀请人的关系证明文件如何准备需进步研究。

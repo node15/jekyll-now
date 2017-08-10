@@ -14,6 +14,11 @@ Application for Visitor Visa (Temporary Resident Visa - TRV)
 
 http://www.cic.gc.ca/english/information/applications/visa.asp?countrySelect=CN#applications
 
+### Applying for Visitor Visa (Temporary Resident Visa)
+Guide for Appying IMM 5256  (english)
+详细申请过程（英文），填申请时参考。
+
+http://www.cic.gc.ca/english/information/applications/guides/5256ETOC.asp
 
 ### 按照“文件核对表”逐项准备文件
 
@@ -74,10 +79,6 @@ If you must wear a head covering for religious reasons, make sure your full faci
  http://www.cic.gc.ca/english/information/times/index.asp
 
 预计办理时间14天（临时签证不包括邮寄时间）
-
-### Applying for Visitor Visa (Temporary Resident Visa – IMM 5256)
-Guide for Appying (english)
-详细申请过程（英文），填申请时参考。
 
 ### Note:
 

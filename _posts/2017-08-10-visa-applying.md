@@ -8,8 +8,9 @@ http://www.vfsglobal.ca/Canada/China/
 
 Application for Visitor Visa (Temporary Resident Visa - TRV)
 
-Apply on paper (English)
+探亲属于这种名为Visitor Visa 或临时居住签证 TRV 
 
+下载表格地址：Apply on paper (English)
 
 http://www.cic.gc.ca/english/information/applications/visa.asp?countrySelect=CN#applications
 
@@ -22,7 +23,7 @@ http://www.cic.gc.ca/english/pdf/kits/forms/IMM5884E.pdf
 
 个人访问(探亲和—兄弟，姐妹,父母,孙子／孙女以及配偶和同居伴侣）
 
-### 申请人需递交:
+#### 申请人需递交:（引自文件核对表）
 
 - 申请人及每位年满 18 周岁及以上的随行家庭成员完整填写“教育和就业细节表”，请
 使用中英文或中法文填写。
@@ -37,7 +38,7 @@ http://www.cic.gc.ca/english/pdf/kits/forms/IMM5884E.pdf
 - 与加拿大邀请人关系的证明(如出生证复印件、结婚证复印件、信函往来证明的复印
 件等)。
 
-### 邀请人(方)需递交:
+#### 邀请人(方)需递交:（引自文件核对表）
 
 - 说明访问目的及访问期限的邀请信；
 - 邀请人居所内的人员详单；

@@ -1,17 +1,23 @@
 加拿大签证申请中心（CVAC）在中国的网站
+
 http://www.vfsglobal.ca/Canada/China/
+
 加拿大使馆只授权一个机构办理签证，小心其他仿品。
 
 ### 准备文件，除邀请人邀请信是自己准备外，其他都要下载然后填表。
 
 Application for Visitor Visa (Temporary Resident Visa - TRV)
-Apply on paper
+
+Apply on paper (English)
+
+
 http://www.cic.gc.ca/english/information/applications/visa.asp?countrySelect=CN#applications
-英文
+
 
 ### 按照“文件核对表”逐项准备文件
 
 文件核对表 – 临时居留签证
+
 http://www.cic.gc.ca/english/pdf/kits/forms/IMM5884E.pdf
 
 个人访问(探亲和—兄弟，姐妹,父母,孙子／孙女以及配偶和同居伴侣）
@@ -43,7 +49,8 @@ http://www.cic.gc.ca/english/pdf/kits/forms/IMM5884E.pdf
 
  Temporary Resident Visa application photograph specifications
 
-Specifications
+### Specifications
+
 The photographs must be identical and taken within the last six months. They may be either black and white or colour.
 The photographs must be clear, well defined and taken against a plain white or light-coloured background.
 If the photographs are digital, they must not be altered in any way.
@@ -52,8 +59,7 @@ You may wear non-tinted prescription glasses as long as your eyes are clearly vi
 A hairpiece or other cosmetic accessory is acceptable if it does not disguise your normal appearance.
 If you must wear a head covering for religious reasons, make sure your full facial features are not obscured.
 
-Photograph and head size specifications
-Image described to the right
+### Photograph and head size specifications
 
 - The frame size must be at least 35 mm x 45 mm (1 3/8″ x 1 3/4″).
 - The photographs must show the full front view of the head, with the face in the middle of the photograph, and include the top of the shoulders.

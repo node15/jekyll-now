@@ -1,8 +1,8 @@
 加拿大签证申请中心（CVAC）在中国的网站
 
-[加拿大签证申请中心（CVAC）](http://www.vfsglobal.ca/Canada/China/) http://www.vfsglobal.ca/Canada/China/
+[加拿大签证申请中心（CVAC）](http://www.vfsglobal.ca/Canada/China/) 
 
-加拿大使馆只授权一个机构办理签证，小心其他仿品。
+加拿大使馆只授权一个机构办理签证，小心其他假冒。
 
 ### 准备文件，除邀请人邀请信是自己准备外，其他都要下载然后填表。
 

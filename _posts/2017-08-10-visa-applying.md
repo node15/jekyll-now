@@ -10,9 +10,9 @@ Application for Visitor Visa (Temporary Resident Visa - TRV)
 
 探亲属于这种名为Visitor Visa 或临时居住签证 TRV 
 
-下载表格地址：Apply on paper (English)
+下载表格地址：
 
-http://www.cic.gc.ca/english/information/applications/visa.asp?countrySelect=CN#applications
+[Apply on paper (English) - http://www.cic.gc.ca/english/information/applications/visa.asp?countrySelect=CN#applications](http://www.cic.gc.ca/english/information/applications/visa.asp?countrySelect=CN#applications)
 
 ### Applying for Visitor Visa (Temporary Resident Visa)
 Guide for Appying IMM 5256  (english)
